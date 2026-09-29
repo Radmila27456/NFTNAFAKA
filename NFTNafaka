@@ -1,7 +1,1 @@
-cd path/to/NFTNAFAKA   # zamijeni s pravom putanjom do tvog foldera
-git init
-git remote add origin https://github.com/Radmila5627/NFTNAFAKA.git
-git add .
-git commit -m "Initial commit - NFTNAFAKA mint site"
-git branch -M main
-git push -u origin main
+Povijesna bilješka. Ranije Git naredbe upućivale su na drugi korisnički račun i nisu važeće za ovaj repozitorij. Aktualni repozitorij: https://github.com/Radmila27456/NFTNAFAKA . Upute i status nalaze se u README.md.
